@@ -55,7 +55,7 @@ build CMakeFiles/VectorLab.dir/main.c.obj: C_COMPILER__VectorLab_Debug C$:/Users
   OBJECT_DIR = CMakeFiles\VectorLab.dir
   OBJECT_FILE_DIR = CMakeFiles\VectorLab.dir
 
-build CMakeFiles/VectorLab.dir/libs/data_structures/vector/vector.c.obj: C_COMPILER__VectorLab_Debug C$:/Users/Stepan/VectorLab/libs/data$ structures/vector/vector.c || cmake_object_order_depends_target_VectorLab
+build CMakeFiles/VectorLab.dir/libs/data_structures/vector/vector.c.obj: C_COMPILER__VectorLab_Debug C$:/Users/Stepan/VectorLab/libs/data_structures/vector/vector.c || cmake_object_order_depends_target_VectorLab
   DEP_FILE = CMakeFiles\VectorLab.dir\libs\data_structures\vector\vector.c.obj.d
   FLAGS = -g -std=gnu2x
   OBJECT_DIR = CMakeFiles\VectorLab.dir
