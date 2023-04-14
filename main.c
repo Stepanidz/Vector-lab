@@ -47,7 +47,7 @@ void test_popBack_notEmptyVector() {
     popBack(&v);
     assert(v.size == 0 && v.capacity == 1);
 
-    pushBack(&v, -788);
+    pushBack(&v, -700);
 
     assert(v.size == 1);
     popBack(&v);
